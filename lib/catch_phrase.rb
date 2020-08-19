@@ -2,4 +2,4 @@ def catch_phrase(phrase)
   puts phrase
 end
 
-catch_
+catch_phrase("hello")
